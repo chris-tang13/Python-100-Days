@@ -18,8 +18,8 @@ def is_prime(n):
 
 
 # 试一试有什么不一样
-# with open('prime.txt', 'a') as f:
-with open('prime.txt', 'w') as f:
+# with open('prime.txt', 'a') as f:    #追加
+with open('prime.txt', 'w') as f:  # 替换写入
     for num in range(2, 100):
         if is_prime(num):
             f.write(str(num) + '\n')

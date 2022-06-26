@@ -11,6 +11,7 @@ with open('pi_million_digits.txt') as f:
     lines = f.readlines()
     pi_string = ''
     for line in lines:
+        # strip方法主要是去除前后的空格
         pi_string += line.strip()
     if birth in pi_string:
         print('Bingo!!!')

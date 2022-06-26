@@ -1,0 +1,238 @@
+OPPO Pakistan|4006|0
+Head Office|5824|4006
+Bahawalpur Zone|6027|4006
+Bahawalnagar office|4010|6027
+Bahawalnagar training Org|6150|4010
+Bahawalpur office|4011|6027
+Bahawalpur training Org|6149|4011
+Khanewal office|4043|6027
+Khanewal training Org|6148|4043
+Lodhran office|4082|6027
+Lodhran training Org|6147|4082
+Vehari office|4116|6027
+Vehari training Org|6146|4116
+Faisalabad Zone|6028|4006
+Faisalabad office|4019|6028
+Faisalabad Training Org|6029|4019
+Gujranwala Zone|6030|4006
+GRW-Amir Center office|4022|6030
+GRW-Amir Center training Org|6145|4022
+GRW-City office|4023|6030
+GRW-City training Org|6144|4023
+GRW-Model Town office|4024|6030
+GRW-Model Town training Org|6143|4024
+GRW-Kamoke office|4026|6030
+GRW-Kamoke training Org|6142|4026
+GRW-Wazirabad office|4027|6030
+GRW-Wazirabad training Org|6141|4027
+Narowal office|4090|6030
+Narowal training Org|6140|4090
+Sialkot office|4107|6030
+Sialkot training Org|6139|4107
+Gujrat Zone|6031|4006
+Abbotabad office|4007|6031
+Abbotabad training Org|6138|4007
+Gilgit office|4021|6031
+Gilgit training Org|6137|4021
+GRW-Trade Center+GRW-Farooq Center office|4025|6031
+GRW-Trade Center+GRW-Farooq Center training Org|6136|4025
+Gujrat office|4028|6031
+Gujrat training Org|6135|4028
+Haripur office|4032|6031
+Haripur training Org|6134|4032
+Jhelum office|4037|6031
+Jhelum training Org|6133|4037
+Kashmir office|4039|6031
+Kashmir training Org|6132|4039
+Mandi Bahaudin office|4083|6031
+Mandi Bahaudin training Org|6131|4083
+Hyderabad Zone|6032|4006
+Badin office|4009|6032
+Badin training Org|6130|4009
+Dadu office|4016|6032
+Dadu training Org|6129|4016
+Hyderabad office|4033|6032
+Hyderabad training Org|6128|4033
+Jamshoro office|4036|6032
+Jamshoro training Org|6127|4036
+Mirpur Khas  office|4086|6032
+Mirpur Khas training Org|6126|4086
+Tando office|4112|6032
+Tando training Org|6125|4112
+Thatta office|4113|6032
+Thatta training Org|6124|4113
+Umerkot office|4115|6032
+Umerkot training Org|6123|4115
+Karachi Zone|6033|4006
+Gwadar Office|4029|6033
+Gwadar training Org|6122|4029
+KHI-Amma Tower Office|4044|6033
+KHI-Amma Tower training Org|6121|4044
+KHI-Baldia Town Office|4045|6033
+KHI-Baldia Town training Org|6120|4045
+KHI-DHA A office|4046|6033
+KHI-DHA A training Org|6119|4046
+KHI-DHA B + KHI Bin Qasim office|4047|6033
+KHI-DHA B + KHI Bin Qasim training Org|6118|4047
+KHI-Faisal Saima Office|4048|6033
+KHI-Faisal Saima training Org|6117|4048
+KHI-Gadap Town Office|4049|6033
+KHI-Gadap Town training Org|6116|4049
+KHI-Gulshan Iqbal office|4050|6033
+KHI-Gulshan Iqbal training Org|6115|4050
+KHI-Gulshan Malir office|4051|6033
+KHI-Gulshan Malir training Org|6114|4051
+KHI-Haroon A office|4052|6033
+KHI-Haroon A training Org|6113|4052
+KHI-Haroon B office|4053|6033
+KHI-Haroon B training Org|6112|4053
+KHI-Haroon C office|4054|6033
+KHI-Haroon C training Org|6111|4054
+Khi-Korangi Landhi Office|4055|6033
+Khi-Korangi Landhi training Org|6110|4055
+KHI-Malir Raza Office|4056|6033
+KHI-Malir Raza training Org|6109|4056
+KHI-North Karachi Office|4057|6033
+KHI-North Karachi training Org|6108|4057
+KHI-Orangi Town Office|4058|6033
+KHI-Orangi Town training Org|6107|4058
+KHI-PECH Office|4059|6033
+KHI-PECH training Org|6106|4059
+KHI-Sareena office|4060|6033
+KHI-Sareena training Org|6105|4060
+KHI-Site Town office|4061|6033
+KHI-Site Town training Org|6104|4061
+KHI-Star City Mall office|4062|6033
+KHI-Star Market office|4063|6033
+KHI-Star Market training Org|6103|4063
+Lasbela Office|4068|6033
+Lasbela training Org|6102|4068
+Lahore Zone|6034|4006
+LHR-DHA office|4070|6034
+LHR-DHA training Org|6023|4070
+LHR-Fazal Center office|4071|6034
+LHR-Fazal Center Training Org|6025|4071
+LHR-Hafeez Center office|4072|6034
+LHR-Hafeez Center Training Org|6026|4072
+LHR-Hall Road office|4073|6034
+LHR-Hall Road training Org|6101|4073
+LHR-IKPG office|4074|6034
+LHR-IKPG training Org|6100|4074
+LHR-Raiwind office|4075|6034
+LHR-Raiwind training Org|6099|4075
+LHR-Royal office|4076|6034
+LHR-Royal training Org|6098|4076
+LHR-Samnabad office|4077|6034
+LHR-Samnabad training Org|6097|4077
+LHR-Shadbagh office|4078|6034
+LHR-Shadbagh training Org|6096|4078
+LHR-Shalimar Link office|4079|6034
+LHR-Shalimar Link training Org|6095|4079
+LHR-Thokar office|4080|6034
+LHR-Thokar training Org|6094|4080
+LHR-Shahdara office|4081|6034
+LHR-Shahdara training Org|6093|4081
+Mianwali Zone|6035|4006
+Attock office|4008|6035
+Attock training Org|6092|4008
+Bannu office|4012|6035
+Bannu training Org|6091|4012
+Bhakkar office|4013|6035
+Bhakkar training Org|6090|4013
+Chakwal office|4014|6035
+Chakwal training Org|6089|4014
+Dera Ismail Khan office|4018|6035
+Dera Ismail Khan training Org|6088|4018
+Hangu office|4031|6035
+Hangu training Org|6086|4031
+Khushab office|4064|6035
+Khushab training Org|6085|4064
+Kohat office|4066|6035
+Kohat training Org|6084|4066
+Mianwali office|4085|6035
+Mianwali training Org|6083|4085
+Multan Zone|6036|4006
+Layyah office|4069|6036
+Layyah training Org|6082|4069
+Multan office|4087|6036
+Multan training Org|6081|4087
+Muzaffargarh office|4088|6036
+Muzaffargarh training Org|6080|4088
+Okara Zone|6037|4006
+Kasur office|4041|6037
+Kasur training Org|6079|4041
+Okara office|4094|6037
+Okara training Org|6078|4094
+Pakpattan office|4095|6037
+Pakpattan training Org|6077|4095
+Sahiwal office|4101|6037
+Sahiwal training Org|6076|4101
+Toba Tek Singh office|4114|6037
+Toba Tek Singh training  Org|6075|4114
+Peshawar Zone|6038|4006
+Mardan office|4084|6038
+Mardan training Org|6074|4084
+Nowshera+Charsada office|4093|6038
+Nowshera+Charsada training Org|6073|4093
+Peshawar office|4096|6038
+Peshawar training Org|6071|4096
+Swabi office|4110|6038
+Swabi training Org|6070|4110
+Swat office|4111|6038
+Swat training Org|6069|4111
+Quetta Zone|6039|4006
+Khuzdar office|4065|6039
+Khuzdar training Org|6068|4065
+Quetta office|4097|6039
+Quetta training Org|6067|4097
+Sibi office|4108|6039
+Sibi training Org|6066|4108
+Zhob office|4117|6039
+Zhob training Org|6065|4117
+Rahim yar Khan Zone|6040|4006
+Dera Ghazi Khan office|4017|6040
+Jacobabad office|4035|6040
+Jacobabad training Org|6064|4035
+Kashmore office|4040|6040
+Kashmore training Org|6063|4040
+Rahim Yar Khan office|4098|6040
+Rahim Yar Khan training Org|6062|4098
+Rajanpur office|4099|6040
+Rajanpur training Org|6061|4099
+Shikarpur office|4106|6040
+Shikarpur training Org|6060|4106
+Rawalpindi Zone|6041|4006
+Islamabad office|4034|6041
+Islamabad training Org|6059|4034
+Rawalpindi office|4100|6041
+Rawalpindi training Org|6058|4100
+Sargodha Zone|6042|4006
+Chiniot office|4015|6042
+Chiniot training Org|6057|4015
+Hafizabad office|4030|6042
+Hafizabad training Org|6056|4030
+Jhang office|4038|6042
+Jhang training Org|6055|4038
+Nankana office|4089|6042
+Nankana training Org|6054|4089
+Sarghodha  office|4103|6042
+Sargodha training Org|6053|4103
+Sheikhupura office|4105|6042
+Sheikhupura training Org|6052|4105
+Sukkur Zone|6043|4006
+Ghotki office|4020|6043
+Ghotki training Org|6051|4020
+Khairpur office|4042|6043
+Khairpur training Org|6050|4042
+Larkana office|4067|6043
+Larkana training Org|6049|4067
+Nausharo Feroze office|4091|6043
+Nausharo Feroze training Org|6048|4091
+Nawabshah office|4092|6043
+Nawabshah training Org|6047|4092
+Sanghar office|4102|6043
+Sanghar training Org|6046|4102
+Shahdadkot office|4104|6043
+Shahdadkot training Org|6045|4104
+Sukkur office|4109|6043
+Sukkur training Org|6044|4109
